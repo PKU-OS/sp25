@@ -15,7 +15,7 @@ Peking University, 2024 Spring
 <p>
 <a href="https://pkuflyingpig.gitbook.io/pintos/" class="btn btn-purple">Project Gitbook</a>
 <a href="https://course.pku.edu.cn" class="btn btn-green">PKU Course Website</a>
-<a href="https://piazza.com/pku.edu.cn/spring2023/04834490" class="btn btn-blue">Piazza</a>
+<a href="https://piazza.com/pku.edu.cn/spring2024/04834490" class="btn btn-blue">Piazza</a>
 </p>
 
 {% if site.announcements %}
