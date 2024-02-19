@@ -35,8 +35,8 @@ schedule:
   - name: Thursday
     events:
       - name: Lecture
-        start: 8:00 AM
-        end: 9:50 AM
+        start: 3:10 PM
+        end: 5:00 PM
         location: 一教208
   - name: Friday
 ---
