@@ -7,10 +7,10 @@ currWeekNumber: 1
 
 # {{ site.tagline }}
 {: .mb-2 }
-Peking University, 2023 Spring
+Peking University, 2024 Spring
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-<img src="/sp23/assets/images/pkuos.svg">
+<img src="/sp24/assets/images/pkuos.svg">
 
 <p>
 <a href="https://pkuflyingpig.gitbook.io/pintos/" class="btn btn-purple">Project Gitbook</a>
