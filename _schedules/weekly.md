@@ -27,10 +27,6 @@ schedule:
         start: 10:10 AM
         end: 12:00 PM
         location: 一教208
-      # - name: Office Hour
-      #   start: 4:00 PM
-      #   end: 5:00 PM
-      #   location: 燕园大厦811
   - name: Wednesday
   - name: Thursday
     events:
@@ -39,4 +35,10 @@ schedule:
         end: 5:00 PM
         location: 一教208
   - name: Friday
+    events:
+      - name: Office Hour
+        start: 4:00 PM
+        end: 5:00 PM
+        location: 燕园大厦811
+
 ---
