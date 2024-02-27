@@ -4,7 +4,7 @@ weekNumber: 1
 ---
 
 Feb 20
-: **lecture**{: .label .label-blue}[Introduction](/sp23/assets/slides/lec01_introduction.pdf)
+: **lecture**{: .label .label-blue}[Introduction](/sp24/assets/slides/lec01_introduction.pdf)
   : **Read**{: .label .label-green}[Ch1](https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-threeeasy.pdf), [Ch2](https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
 : **Lab 0 Out**{: .label .label-purple } [P-Lab0: Getting Real](https://pkuflyingpig.gitbook.io/pintos/project-description/lab0-booting), [T-Lab0: Appetizer](https://pku-tacos.pages.dev/lab0-appetizer)
 
