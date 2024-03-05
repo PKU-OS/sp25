@@ -9,6 +9,7 @@ Mar 14
 : **TA session**{: .label .label-yellow} [Lab1: Threads](/sp23/assets/slides/TA_session2.pdf)
     : &emsp;
 
+
 Mar 16
 : **Lecture**{: .label .label-blue }[Synchronization 3: Atomic Introductions, Monitors](/sp23/assets/slides/lec08_synchronization3.pdf)
     : **Read**{: .label .label-green}[Ch30](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf), [Ch31](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)

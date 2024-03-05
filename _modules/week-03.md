@@ -8,9 +8,6 @@ Mar 5
     : **Read**{: .label .label-green}[Ch39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
 : **Lab 1 Out**{: .label .label-purple } [Lab1: Threads](https://pkuflyingpig.gitbook.io/pintos/project-description/lab1-threads)
     : &emsp;
-: **TA session**{: .label .label-yellow} [Lab1: Threads](/sp23/assets/slides/TA_session2.pdf)
-    : &emsp;
-
 
 
 Mar 7
