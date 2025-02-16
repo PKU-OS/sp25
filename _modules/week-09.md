@@ -12,5 +12,3 @@ April 15
 April 17
 : **TBA**{: .label .label-yellow }
     : &emsp;
-: **Lab 3 Out**{: .label .label-purple } [P-Lab3a: Virtual Memory](https://pkuflyingpig.gitbook.io/pintos/project-description/lab3a-demand-paging), [T-Lab3: Virtual Memory](https://pku-tacos.pages.dev/lab3-virtual_memory)
-    : &emsp;
