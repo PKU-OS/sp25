@@ -12,5 +12,3 @@ April 22
 April 24
 : **TBA**{: .label .label-gray }
     : &emsp;
-<!-- : **Mid Term**{: .label .label-red }
-    : &emsp; -->

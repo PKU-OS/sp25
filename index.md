@@ -7,16 +7,16 @@ currWeekNumber: 1
 
 # {{ site.tagline }}
 {: .mb-2 }
-Peking University, 2024 Spring
+Peking University, 2025 Spring
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-<img src="/sp24/assets/images/pkuos.svg">
+<img src="/sp25/assets/images/pkuos.svg">
 
 <p>
 <a href="https://pkuflyingpig.gitbook.io/pintos/" class="btn btn-purple">Pintos Doc</a>
 <a href="https://pku-tacos.pages.dev/introduction" class="btn btn-purple">Tacos Doc</a>
 <a href="https://course.pku.edu.cn" class="btn btn-green">PKU Course Website</a>
-<a href="https://piazza.com/pku.edu.cn/spring2024/04834490" class="btn btn-blue">Piazza</a>
+<a href="https://piazza.com/pku.edu.cn/spring2025/04834490" class="btn btn-blue">Piazza</a>
 </p>
 
 {% if site.announcements %}

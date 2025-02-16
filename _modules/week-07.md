@@ -11,9 +11,7 @@ April 1 😛
 
 
 April 3
-<!-- : **Tomb-sweeping Day**{: .label .label-blue }
-    : &emsp; -->
-<!-- : **Guest Lecture**{: .label .label-blue }[Jolteon](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-jolteon), [Rummy](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining), [MegaScale](https://www.usenix.org/conference/nsdi24/presentation/jiang-ziheng)
-    : **Paper**{: .label .label-green}[NSDI'24 Jolteon](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-jolteon), [NSDI'24 Rummy](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining), [NSDI'24 MegaScale](https://www.usenix.org/conference/nsdi24/presentation/jiang-ziheng) -->
+: **Guest Lecture**{: .label .label-blue } TBA
+    : &emsp;
 : **Lecture**{: .label .label-blue }[Scheduling 4: Scheduling in Modern Computer Systems](/sp25/assets/slides/lec13_scheduling4.pdf)
     : **Paper**{: .label .label-green}[SOSP'17 ZygOS](https://dl.acm.org/doi/10.1145/3132747.3132780), [NSDI'19 Tiresias](https://www.usenix.org/conference/nsdi19/presentation/gu), [NSDI'16 FairRide](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/pu)
