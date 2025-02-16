@@ -13,7 +13,7 @@ Peking University, 2025 Spring
 <img src="/sp25/assets/images/pkuos.svg">
 
 <p>
-<a href="https://pkuflyingpig.gitbook.io/pintos/" class="btn btn-purple">Pintos Doc</a>
+<a href="https://echostone.gitbook.io/pintos/" class="btn btn-purple">Pintos Doc</a>
 <a href="https://pku-tacos.pages.dev/introduction" class="btn btn-purple">Tacos Doc</a>
 <a href="https://course.pku.edu.cn" class="btn btn-green">PKU Course Website</a>
 <a href="https://piazza.com/pku.edu.cn/spring2025/04834490" class="btn btn-blue">Piazza</a>
