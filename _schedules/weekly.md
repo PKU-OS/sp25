@@ -26,14 +26,14 @@ schedule:
       - name: Lecture
         start: 10:10 AM
         end: 12:00 PM
-        location: 二教211
+        location: TBA
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
         start: 3:10 PM
         end: 5:00 PM
-        location: 二教211
+        location: TBA
   - name: Friday
     events:
       - name: Office Hour
